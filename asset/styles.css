@@ -11,14 +11,23 @@ body{
 
     border-width: 2px;
     border-color: white;
+    border-style: solid;
+
+    margin: auto;
 }
 
 #tabel-ml h3{
-    font-size: medium;
+    font-size: large;
+    padding-top: 10px;
+}
+
+#tabel-ml td{
+    padding: 20px;
+    color: white;
 }
 
 .link{
-    color: white;
+    color: pink;
     text-decoration: none ;
 }
 
